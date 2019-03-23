@@ -38,5 +38,7 @@ h3 {
 }
 
 .background {
-  background-color: pink;
+  background-color: blue;
 }
+
+/****Last three elements on the page will be have a blue background as opposed to green.****/
