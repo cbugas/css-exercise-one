@@ -3,7 +3,7 @@ body
 }
 
 nav {
-  background color: yellow;
+  background color: #FFFF00;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -31,14 +31,14 @@ h3 {
 }
 
 .element {
-  background-color: green;
+  background-color: 42f453;
   height: 100px;
   margin 10px 0;
   width: 100%;
 }
 
 .element last 3 {
-  background-color: blue;
+  background-color: 4242f4;
 }
 
 /****Last three elements on the page will be have a blue background as opposed to green.****/
